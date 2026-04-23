@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>moon@1x</title>
+    <g id="moon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(-0.000000, -0.000000)" stroke="#000000" stroke-width="1.6">
+            <path d="M21.0000001,12.7900001 C20.5623509,17.5258085 16.5155206,21.1036352 11.7617765,20.9575684 C7.00803243,20.8115016 3.1884985,16.9919677 3.04243172,12.2382236 C2.89636495,7.48447951 6.47419162,3.43764924 11.21,3.00000001 C9.15036197,5.78645174 9.43925663,9.66045323 11.8894017,12.1105984 C14.3395469,14.5607435 18.2135484,14.8496381 21.0000001,12.7900001 L21.0000001,12.7900001 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

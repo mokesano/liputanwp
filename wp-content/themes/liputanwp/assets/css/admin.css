@@ -1,0 +1,16 @@
+
+table.fixed {
+    table-layout: unset;
+}
+.column-title {
+    width: 30%;
+}
+.not-widget {
+    padding: 10px;
+    background: #04AA6D;
+    border-radius: 6px;
+    color: #ffffff;
+}
+.not-widget b {
+    font-weight: 700;
+}

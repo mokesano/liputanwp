@@ -1,0 +1,44 @@
+@font-face {
+  font-family: AcuminPro;
+  src: url("../fonts/AcuminPro.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/AcuminPro.svg#AcuminPro")
+      format("svg"),
+    url("../fonts/AcuminPro.woff")
+      format("woff"),
+    url("../fonts/AcuminPro.ttf")
+      format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: AcuminPro;
+  src: url("../fonts/AcuminPro-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/AcuminPro-Bold.svg#AcuminPro-Bold")
+      format("svg"),
+    url("../fonts/AcuminPro-Bold.woff")
+      format("woff"),
+    url("../fonts/AcuminPro-Bold.ttf")
+      format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Gotham;
+  src: url("../fonts/Gotham-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Gotham-Bold.svg#Gotham Bold")
+      format("svg"),
+    url("../fonts/Gotham-Bold.woff")
+      format("woff"),
+    url("../fonts/Gotham-Bold.ttf")
+      format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
