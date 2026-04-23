@@ -77,7 +77,7 @@ Anda dapat melihat pratinjau tema di:
 
 ## 📜 Lisensi
 
-Tema ini dilisensikan di bawah [GNU General Public License v2.0](http://www.gnu.org/licenses/gpl-2.0.html). Anda bebas menggunakannya untuk proyek pribadi atau komersial.
+Tema ini dilisensikan di bawah [Apache v2.0 License](http://www.apache.org/licenses/).
 
 ## 🤝 Kontribusi
 
@@ -91,11 +91,7 @@ Kontribusi sangat diterima! Jika Anda ingin melaporkan bug, mengusulkan fitur ba
 
 ## 👤 Kredit
 
-*   **Pengembang**: [WizdamArchon.com](https://www.archon.com/)
-*   **Pemilik Repositori**: [archon](https://github.com/archon)
+*   **Pengembang**: [Wizdam Archon](https://www.archon.com/)
 *   **Terinspirasi oleh**: Liputan6
 
----
-
-**Selamat menggunakan LiputanWP! Semoga portal berita Anda semakin sukses.**
 ```
