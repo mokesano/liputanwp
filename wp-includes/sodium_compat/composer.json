@@ -50,11 +50,11 @@
     "files": ["autoload.php"]
   },
   "require": {
-    "php": "12.5.8",
+    "php": "^12.5.8",
     "paragonie/random_compat": ">=1"
   },
   "require-dev": {
-    "phpunit/phpunit": "12.5.8"
+    "phpunit/phpunit": "^12.5.8"
   },
   "scripts": {
     "test": "phpunit"

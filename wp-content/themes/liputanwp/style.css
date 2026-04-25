@@ -1,16 +1,17 @@
 /*
 Theme Name: LiputanWP | Versi Developer
 Theme URI: https://wizdam.sangia.org/demo/liputanwp/
-Author: WizdamArchon.com
-Author URI: https://wizdam.sangia.org/
-Description: Umparan adalah template WordPress portal berita yang dari segi desain dan fitur mirip dengan kumparan.com. 
+Author: Wizdam Archon
+Author URI: https://github.com/archoun
+Description: LiputanWP adalah template WordPress portal berita yang dari segi desain dan fitur mirip dengan liputan6.com. 
 Version: 1.0.0
-Requires at least: 8.0
-Tested up to: 8.4
-Requires PHP: 8.0
+Requires at least: 7.4
+Tested up to: 8.2
+Requires PHP: 8.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: wizdamarchon
+Text Domain: wizdam-liputanwp
+Tags: one-column, custom-menu, custom-logo, editor-style, featured-images, full-site
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
