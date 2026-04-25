@@ -1,0 +1,29 @@
+{
+    "name": "mokesano/liputanwp",
+    "description": "Tema WordPress portal berita ala Liputan6 — modern, responsif, dan kaya fitur.",
+    "type": "wordpress-theme",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Wizdam Archon",
+            "homepage": "https://github.com/archoun",
+            "role": "Developer"
+        },
+        {
+            "name": "Rochmady (mokesano)",
+            "homepage": "https://github.com/mokesano",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "^1.0 || ^2.0"
+    },
+    "support": {
+        "issues": "https://github.com/mokesano/liputanwp/issues",
+        "source": "https://github.com/mokesano/liputanwp"
+    },
+    "extra": {
+        "installer-name": "liputanwp"
+    }
+}
