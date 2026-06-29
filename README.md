@@ -160,18 +160,6 @@ Proyek ini dilisensikan di bawah **Apache License 2.0**. Lihat [LICENSE](https:/
 
 ---
 
-## 🙏 Kredit & Pengakuan
-
-| 🏷️ Atribusi | 🔗 Referensi |
-| :--- | :--- |
-| **Pengembang** | [Wizdam Archon](https://www.archon.com/) |
-| **Maintainer** | [Rochmady (mokesano)](https://github.com/mokesano) |
-| **Terinspirasi oleh** | Liputan6 |
-| **Lisensi** | [Apache License 2.0](http://www.apache.org/licenses/) |
-| **Demo Tema** | [https://wizdam.sangia.org/demo/liputanwp/](https://wizdam.sangia.org/demo/liputanwp/) |
-
----
-
 <p align="center">
   <br>
   <sub>Dibangun dengan ❤️ untuk komunitas penerbitan berita Indonesia</sub>
